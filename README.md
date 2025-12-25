@@ -31,4 +31,13 @@ https://tanish-ship-it.github.io/Ambus-1-/
 ---
 
 ## 📁 Project Structure
-
+Ambus-Meals/
+│
+├── index.html
+├── css/
+│ └── style.css
+├── js/
+│ └── script.js
+├── images/
+│ └── (all website images)
+└── README.md
