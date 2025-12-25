@@ -32,3 +32,66 @@ CSS3
 JavaScript
 
 (Add Bootstrap / Tailwind / other libraries if used)
+
+📁 Project Structure
+Ambus-Meals/
+│
+├── index.html
+├── css/
+│   └── style.css
+├── js/
+│   └── script.js
+├── images/
+│   └── (all website images)
+└── README.md
+
+🚀 Getting Started
+
+To run this project locally:
+
+Clone the repository
+
+git clone https://github.com/your-username/ambus-meals.git
+
+
+Open the project folder
+
+cd ambus-meals
+
+
+Open index.html in your browser
+
+📸 Screenshots
+
+(Add screenshots of your website here for better presentation)
+
+📌 Future Improvements
+
+Online ordering system
+
+Table reservation feature
+
+Backend integration
+
+Admin panel for menu updates
+
+🤝 Contributing
+
+Contributions, issues, and feature requests are welcome.
+Feel free to fork this repository and submit a pull request.
+
+📄 License
+
+This project is open source and available under the MIT License.
+
+❤️ Acknowledgements
+
+Designed and developed for Ambu’s Meals
+
+Inspired by modern restaurant website layouts
+
+CSS3
+
+JavaScript
+
+(Add Bootstrap / Tailwind / other libraries if used)
